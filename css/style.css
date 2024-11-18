@@ -23,6 +23,7 @@ header {
 }
 .blu{
     background-color: aqua;
+    width: 25%;
 }
 .celeste {
     background-color: aquamarine;
@@ -43,20 +44,12 @@ header {
     background-repeat: no-repeat;
     color: white;
 }
-td{
-    height: 50px;
-}
 #t30 {
     background-color: aqua;
-    width: 600px;
+    width: 50%;
 }
 #t31 {
     background-color: aquamarine;
-    width: 600px;
-}
-#t32 {
-    width: 600px;
-
 }
 body{
     margin: 0;
