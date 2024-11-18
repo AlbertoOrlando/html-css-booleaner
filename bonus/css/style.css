@@ -1,0 +1,62 @@
+header {
+    background-color: rgba(12, 206, 206,.5);
+    background-image: url("../img/pattern.png");
+    height: 150px;
+    background-size: 500px;
+    
+}
+#logo{
+    height: 50px;
+    margin-top: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#spanblu {
+    color: blue;
+}
+.giallo {
+    background-color: yellow;
+}
+.gray1 {
+    color: gray;
+}
+#gray {
+    color: gray;
+}
+.blu{
+    background-color: aqua;
+    width: 25%;
+}
+.celeste {
+    background-color: aquamarine;
+}
+#primo{
+    font-size: 20px;
+    background-image: url(../img/penultima.jpg);
+    background-size: 250px;
+    height: 180px;
+    background-repeat: no-repeat;
+    color: white;
+}
+#secondo{
+    font-size: 20px;
+    background-image: url(../img/ultima.jpg);
+    background-size: 250px;
+    height: 180px;
+    background-repeat: no-repeat;
+    color: white;
+}
+#t30 {
+    background-color: aqua;
+    width: 50%;
+}
+#t31 {
+    background-color: aquamarine;
+}
+body{
+    margin: 0;
+}
+.centro {
+    margin-left: 10%;
+    margin-right: 10%;
+}
