@@ -1,0 +1,23 @@
+#sfondo {
+    background-color: rgba(12, 206, 206,.5);
+    background-image: url("");
+    
+}
+#spanblu {
+    color: blue;
+}
+.giallo {
+    background-color: yellow;
+}
+.gray1 {
+    color: gray;
+}
+#gray {
+    color: gray;
+}
+.blu{
+    background-color: aqua;
+}
+.celeste {
+    background-color: aquamarine;
+}
